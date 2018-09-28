@@ -1,4 +1,4 @@
-#this module was written by Sofyan Halaby
+#this module is written by Sofyan Halaby
 #https://github.com/SofyanHalaby/SokobanSolver/edit/master/sokoban.py
 
 from collections import deque
